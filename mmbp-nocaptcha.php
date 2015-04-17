@@ -6,7 +6,7 @@ Description: This super-lightweight plugin adds a Google's No Captcha human frie
 It should help keep your community free from spambots and also hopefully not be too much of a inconvenience for your sites genuine users.
 You can set a dark or light theme. The type of captcha can be set to image or audio and there are over 30 languages available for the NoCaptcha box. Or, set it to auto, based on the users browser language.
 (Plugin code based on Buddypress ReCaptacha by Hardeep Asrani, modified for latest reCaptcha API.)
-Version: 1.1
+Version: 1.1.1
 Author: Neil Foster
 Author URI: http://www.mokummusic.com
 Requires at least: WordPress 2.8, BuddyPress 1.2.9
@@ -57,7 +57,7 @@ function mmbpcapt_register_options_page() {
 add_action('admin_menu', 'mmbpcapt_register_options_page');
 
 function mmbpcapt_options_page() {
-	include 'admin-settings-template.php';
+	include (plugin_dir_path( __FILE__ ).'admin-settings-template.php');
 }
 
 // ********** FRONT END **************
