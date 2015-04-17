@@ -1,11 +1,11 @@
 === BuddyPress No Captcha reCaptcha ===
-Contributors: neilfoster
+Contributors: mokummusic
 Author URI: http://www.mokummusic.com
 Donate Link: http://www.mokummusic.com
 Tags: spam, google, captcha, buddypress, anti-spam, recaptcha, nocaptcha, registration, user, form, security
 Requires at least: 3.2
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -19,13 +19,13 @@ You also need to enter your API keys from Google in the settings page. You can c
 
 It should help keep your community free from spammers and also hopefully not be too much of a inconvenience for your site's users. 
 
-Based on Buddypress ReCaptacha by Hardeep Asrani.
+Uses Google’s new No Captcha reCaptcha API!
 
 == Installation ==
 
 1. Upload the plugin to your 'wp-content/plugins' directory, or download and install automatically through your admin panel.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Configure reCAPTCHA settigns from Settings > BuddyPress Captcha menu.
+3. Configure reCAPTCHA settings from Settings > BuddyPress Captcha menu.
 
 == Frequently Asked Questions ==
 

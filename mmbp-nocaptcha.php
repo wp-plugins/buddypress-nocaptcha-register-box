@@ -4,7 +4,7 @@ Plugin Name: BuddyPress NoCaptcha Register Box
 Plugin URI: http://www.functionsphp.com/recaptcha
 Description: This super-lightweight plugin adds a Google's No Captcha human friendly reCAPTCHA box to the BuddyPress registration form. 
 It should help keep your community free from spammers and also hopefully not be too much of a inconvenience for your site's users. 
-Based on Buddypress ReCaptacha by Hardeep Asrani.
+Based on Buddypress ReCaptacha by Hardeep Asrani, modified for latest reCaptcha API.
 Version: 1.0
 Author: Neil Foster
 Author URI: http://www.mokummusic.com
