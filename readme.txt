@@ -2,14 +2,16 @@
 Contributors: mokummusic
 Author URI: http://www.mokummusic.com
 Donate Link: http://www.mokummusic.com
-Tags: spam, google, captcha, buddypress, anti-spam, recaptcha, nocaptcha, registration, user, form, security
+Tags: spam, google, captcha, buddypress, anti-spam, spambot, bot, recaptcha, nocaptcha, registration, user, form, security
 Requires at least: 3.2
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This super-lightweight plugin adds a Google's No Captcha human friendly reCAPTCHA box to the BuddyPress registration form.
+Super-lightweight plugin adds Google's No Captcha reCAPTCHA box to your BuddyPress registration form.
+
+Tough on bots, Easy on humans!
 
 == Description ==
 
@@ -17,9 +19,11 @@ This plugin obviously requires BuddyPress before it will do anything.
 
 You also need to enter your API keys from Google in the settings page. You can choose light or dark theme and add basic CSS styling to the box.
 
-It should help keep your community free from spammers and also hopefully not be too much of a inconvenience for your site's users. 
+It should help keep your community free from spambots and also hopefully not be too much of a inconvenience for your sites genuine users.
 
-Uses Google’s new No Captcha reCaptcha API!
+You can set a dark or light theme. The type of captcha can be set to image or audio and there are over 30 languages available for the NoCaptcha box. Or, set it to auto, based on the users browser language.
+
+(Plugin code based on Buddypress ReCaptacha by Hardeep Asrani, modified for latest reCaptcha API.)
 
 == Installation ==
 
@@ -46,7 +50,13 @@ Neil Foster www.mokummusic.com
 = 1.0 =
 Initial Release.
 
+= 1.1 =
+Added Languages and async script loading.
+
 == Upgrade Notice ==
 
 = 1.0 =
 Initial Release.
+
+= 1.1 =
+Added Languages and async script loading.
