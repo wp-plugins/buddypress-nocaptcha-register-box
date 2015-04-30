@@ -4,7 +4,7 @@ Author URI: http://www.mokummusic.com
 Donate Link: http://www.mokummusic.com
 Tags: spam, google, captcha, buddypress, anti-spam, spambot, bot, recaptcha, nocaptcha, registration, user, form, security
 Requires at least: 3.2
-Tested up to: 4.1
+Tested up to: 4.2.1
 Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
