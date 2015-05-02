@@ -5,7 +5,7 @@ Donate Link: http://www.mokummusic.com
 Tags: spam, google, captcha, buddypress, anti-spam, spambot, bot, recaptcha, nocaptcha, registration, user, form, security
 Requires at least: 3.2
 Tested up to: 4.2.1
-Stable tag: 1.1.2
+Stable tag: 1.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -56,6 +56,12 @@ Added Languages and async script loading.
 = 1.1.1 =
 Error in include command.
 
+= 1.1.2 =
+Cleaned up admin options code. Lang options now in an array.
+
+= 1.1.3 =
+Amend changelog in readme.
+
 == Upgrade Notice ==
 
 = 1.0 =
@@ -69,3 +75,6 @@ Error in include command.
 
 = 1.1.2 =
 Cleaned up admin options code. Lang options now in an array.
+
+= 1.1.3 =
+Amend changelog in readme.
