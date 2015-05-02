@@ -56,6 +56,9 @@ Added Languages and async script loading.
 = 1.1.1 =
 Error in include command.
 
+= 1.1.2 =
+Cleaned up admin options code. Lang options now in an array.
+
 == Upgrade Notice ==
 
 = 1.0 =
